@@ -145,7 +145,7 @@
       "slack_display_name": null,
       "markets": [],
       "role": "setter",
-      "flags": ["veteran"],
+      "flags": ["veteran", "leader"],
       "include_in_brief": false,
       "ghl_user_id": null,
       "active": true,
