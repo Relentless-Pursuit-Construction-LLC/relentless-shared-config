@@ -1,0 +1,19 @@
+name: Validate rep-slack-mapping.json
+
+on:
+  pull_request:
+    paths:
+      - 'rep-slack-mapping.json'
+      - '.github/workflows/validate-mapping.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'rep-slack-mapping.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate schema
+        run: python3 .github/scripts/validate_mapping.py
