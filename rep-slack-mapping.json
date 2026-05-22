@@ -196,6 +196,21 @@
       "active": true,
       "inactive_since": null,
       "notes": "Market unknown. Slack ID unresolved."
+    },
+    {
+      "name": "Mike Holland",
+      "ghl_name": "Mike Holland",
+      "emails": ["mike@relentlessconstruction.io"],
+      "slack_id": null,
+      "slack_display_name": null,
+      "markets": ["AZ"],
+      "role": "ops",
+      "flags": [],
+      "include_in_brief": true,
+      "ghl_user_id": null,
+      "active": true,
+      "inactive_since": null,
+      "notes": "GC license holder + estimator (Josh's dad). Owns deals in the General Contracting Sales pipeline. NOT on Slack — pipeline brief notifications about Mike's stuck deals are relayed through Matt's summary DM. Update slack_id here if Mike joins the workspace."
     }
   ]
 }
