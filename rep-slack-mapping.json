@@ -211,6 +211,21 @@
       "active": true,
       "inactive_since": null,
       "notes": "GC license holder + estimator (Josh's dad). Owns deals in the General Contracting Sales pipeline. NOT on Slack — pipeline brief notifications about Mike's stuck deals are relayed through Matt's summary DM. Update slack_id here if Mike joins the workspace."
+    },
+    {
+      "name": "Joanne Viray",
+      "ghl_name": null,
+      "emails": ["finance@relentlessconstruction.io"],
+      "slack_id": "U0B0M7R8E2H",
+      "slack_display_name": "Joanne Viray",
+      "markets": ["AZ"],
+      "role": "finance",
+      "flags": [],
+      "include_in_brief": true,
+      "ghl_user_id": null,
+      "active": true,
+      "inactive_since": null,
+      "notes": "Bookkeeper / Finance. Receives audit DMs when reps change deal state via Slack (alongside Matt). Eventually will own GHL pipeline ops. Role 'finance' is new (existing schema lists setter/closer/manager/founder/ops). Update _schema if formalizing."
     }
   ]
 }
