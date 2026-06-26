@@ -20,10 +20,14 @@
     {
       "name": "Joshua Holland",
       "ghl_name": "Joshua Holland",
-      "emails": ["josh@relentlessconstruction.io"],
+      "emails": [
+        "josh@relentlessconstruction.io"
+      ],
       "slack_id": "U09UXKUE87J",
       "slack_display_name": "Josh Holland",
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "founder",
       "flags": [],
       "include_in_brief": true,
@@ -35,10 +39,14 @@
     {
       "name": "Matt Maughan",
       "ghl_name": null,
-      "emails": ["matt@relentlessconstruction.io"],
+      "emails": [
+        "matt@relentlessconstruction.io"
+      ],
       "slack_id": "U09TMTZ21RD",
       "slack_display_name": "Matt Maughan",
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "founder",
       "flags": [],
       "include_in_brief": true,
@@ -50,12 +58,18 @@
     {
       "name": "Cameron Kendall",
       "ghl_name": "Cameron Kendall",
-      "emails": ["cam@relentlessconstruction.io"],
+      "emails": [
+        "cam@relentlessconstruction.io"
+      ],
       "slack_id": "U0ARGMSAK19",
       "slack_display_name": "Cameron Kendall",
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "manager",
-      "flags": ["veteran"],
+      "flags": [
+        "veteran"
+      ],
       "include_in_brief": true,
       "ghl_user_id": null,
       "active": true,
@@ -65,12 +79,18 @@
     {
       "name": "Tegan Judd",
       "ghl_name": "Tegan Judd",
-      "emails": ["tegan@relentlessconstruction.io"],
+      "emails": [
+        "tegan@relentlessconstruction.io"
+      ],
       "slack_id": "U0A0GTT38EB",
       "slack_display_name": "Tegan Judd",
-      "markets": ["UT"],
+      "markets": [
+        "UT"
+      ],
       "role": "manager",
-      "flags": ["veteran"],
+      "flags": [
+        "veteran"
+      ],
       "include_in_brief": true,
       "ghl_user_id": null,
       "active": true,
@@ -80,12 +100,19 @@
     {
       "name": "Roshaun Johnson",
       "ghl_name": "Roshaun Johnson",
-      "emails": ["roshaun@relentlessconstruction.io", "jshaun023@gmail.com"],
+      "emails": [
+        "roshaun@relentlessconstruction.io",
+        "jshaun023@gmail.com"
+      ],
       "slack_id": "U0ARHN0U7NF",
       "slack_display_name": "Shaun Johnson",
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "closer",
-      "flags": ["veteran"],
+      "flags": [
+        "veteran"
+      ],
       "include_in_brief": true,
       "ghl_user_id": null,
       "active": true,
@@ -95,10 +122,14 @@
     {
       "name": "Jamison Judd",
       "ghl_name": "Jamison Judd",
-      "emails": ["jamjudd7@gmail.com"],
+      "emails": [
+        "jamjudd7@gmail.com"
+      ],
       "slack_id": "U0ARYGJDKEW",
       "slack_display_name": "Jamison Judd",
-      "markets": ["UT"],
+      "markets": [
+        "UT"
+      ],
       "role": "closer",
       "flags": [],
       "include_in_brief": false,
@@ -110,10 +141,15 @@
     {
       "name": "RJ Ashton",
       "ghl_name": "RJ Ashton",
-      "emails": ["rjashton03@gmail.com", "ashtonrelentless@gmail.com"],
+      "emails": [
+        "rjashton03@gmail.com",
+        "ashtonrelentless@gmail.com"
+      ],
       "slack_id": "U0ARE13RZ47",
       "slack_display_name": "RJ Ashton",
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "closer",
       "flags": [],
       "include_in_brief": false,
@@ -125,10 +161,14 @@
     {
       "name": "Todd Hess",
       "ghl_name": null,
-      "emails": ["infinity.toddhess@gmail.com"],
+      "emails": [
+        "infinity.toddhess@gmail.com"
+      ],
       "slack_id": null,
       "slack_display_name": null,
-      "markets": ["UT"],
+      "markets": [
+        "UT"
+      ],
       "role": "closer",
       "flags": [],
       "include_in_brief": false,
@@ -140,12 +180,17 @@
     {
       "name": "Arthur Beals",
       "ghl_name": null,
-      "emails": ["arthur.beals.7@gmail.com"],
+      "emails": [
+        "arthur.beals.7@gmail.com"
+      ],
       "slack_id": null,
       "slack_display_name": null,
       "markets": [],
       "role": "setter",
-      "flags": ["veteran", "leader"],
+      "flags": [
+        "veteran",
+        "leader"
+      ],
       "include_in_brief": false,
       "ghl_user_id": null,
       "active": true,
@@ -155,12 +200,16 @@
     {
       "name": "Kabe Smith",
       "ghl_name": null,
-      "emails": ["kabesmith007@gmail.com"],
+      "emails": [
+        "kabesmith007@gmail.com"
+      ],
       "slack_id": null,
       "slack_display_name": null,
       "markets": [],
       "role": "setter",
-      "flags": ["leader"],
+      "flags": [
+        "leader"
+      ],
       "include_in_brief": false,
       "ghl_user_id": null,
       "active": true,
@@ -170,12 +219,18 @@
     {
       "name": "Colin Sherlock",
       "ghl_name": null,
-      "emails": ["colinsherlock23@gmail.com"],
+      "emails": [
+        "colinsherlock23@gmail.com"
+      ],
       "slack_id": null,
       "slack_display_name": null,
-      "markets": ["UT"],
+      "markets": [
+        "UT"
+      ],
       "role": "setter",
-      "flags": ["leader"],
+      "flags": [
+        "leader"
+      ],
       "include_in_brief": true,
       "ghl_user_id": null,
       "active": true,
@@ -185,12 +240,16 @@
     {
       "name": "Adele Arnett",
       "ghl_name": null,
-      "emails": ["arnettadele@gmail.com"],
+      "emails": [
+        "arnettadele@gmail.com"
+      ],
       "slack_id": null,
       "slack_display_name": null,
       "markets": [],
       "role": "setter",
-      "flags": ["leader"],
+      "flags": [
+        "leader"
+      ],
       "include_in_brief": false,
       "ghl_user_id": null,
       "active": true,
@@ -200,10 +259,14 @@
     {
       "name": "Mike Holland",
       "ghl_name": "Mike Holland",
-      "emails": ["mike@relentlessconstruction.io"],
+      "emails": [
+        "mike@relentlessconstruction.io"
+      ],
       "slack_id": null,
       "slack_display_name": null,
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "ops",
       "flags": [],
       "include_in_brief": true,
@@ -215,10 +278,14 @@
     {
       "name": "Joanne Viray",
       "ghl_name": null,
-      "emails": ["finance@relentlessconstruction.io"],
+      "emails": [
+        "finance@relentlessconstruction.io"
+      ],
       "slack_id": "U0B0M7R8E2H",
       "slack_display_name": "Joanne Viray",
-      "markets": ["AZ"],
+      "markets": [
+        "AZ"
+      ],
       "role": "finance",
       "flags": [],
       "include_in_brief": true,
@@ -226,6 +293,25 @@
       "active": true,
       "inactive_since": null,
       "notes": "Bookkeeper / Finance. Receives audit DMs when reps change deal state via Slack (alongside Matt). Eventually will own GHL pipeline ops. Role 'finance' is new (existing schema lists setter/closer/manager/founder/ops). Update _schema if formalizing."
+    },
+    {
+      "name": "Ammon Rivera",
+      "ghl_name": null,
+      "emails": [
+        "ammonbrivera@gmail.com"
+      ],
+      "slack_id": "U0B1XSMB14K",
+      "slack_display_name": "Ammon",
+      "markets": [
+        "UT"
+      ],
+      "role": "closer",
+      "flags": [],
+      "include_in_brief": false,
+      "ghl_user_id": null,
+      "active": true,
+      "inactive_since": null,
+      "notes": "Added 2026-06-25 — UT closer, was unmapped in Coach closer board."
     }
   ]
 }
