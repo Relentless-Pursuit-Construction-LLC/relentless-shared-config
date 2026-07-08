@@ -34,7 +34,8 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "CEO/Founder. Owns Coach + Lighthouse."
+      "notes": "CEO/Founder. Owns Coach + Lighthouse.",
+      "email": "josh@relentlessconstruction.io"
     },
     {
       "name": "Matt Maughan",
@@ -53,7 +54,8 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "Owner/operator. Owns GHL agent + eQuote bot."
+      "notes": "Owner/operator. Owns GHL agent + eQuote bot.",
+      "email": "matt@relentlessconstruction.io"
     },
     {
       "name": "Cameron Kendall",
@@ -74,7 +76,8 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "AZ Sales Director. Also a closer. Receives leadership_coaching DM."
+      "notes": "AZ Sales Director. Also a closer. Receives leadership_coaching DM.",
+      "email": "cam@relentlessconstruction.io"
     },
     {
       "name": "Tegan Judd",
@@ -95,7 +98,8 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "Co-founder. Runs UT sales. Also a closer."
+      "notes": "Co-founder. Runs UT sales. Also a closer.",
+      "email": "tegan@relentlessconstruction.io"
     },
     {
       "name": "Roshaun Johnson",
@@ -117,7 +121,8 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "Goes by Shaun in Slack, Roshaun in GHL. This file is the canonical resolution."
+      "notes": "Goes by Shaun in Slack, Roshaun in GHL. This file is the canonical resolution.",
+      "email": "roshaun@relentlessconstruction.io"
     },
     {
       "name": "Jamison Judd",
@@ -136,7 +141,8 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": ""
+      "notes": "",
+      "email": "jamison@relentlessconstruction.io"
     },
     {
       "name": "RJ Ashton",
@@ -156,7 +162,7 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "Two known emails. Personal is primary per Josh 2026-05-15. Coach currently uses ashtonrelentless@ — keep both during transition."
+      "notes": "Two known emails. Personal is primary per Josh 2026-05-15. Coach currently uses ashtonrelentless@ \u00e2\u20ac\u201d keep both during transition."
     },
     {
       "name": "Todd Hess",
@@ -273,7 +279,7 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "GC license holder + estimator (Josh's dad). Owns deals in the General Contracting Sales pipeline. NOT on Slack — pipeline brief notifications about Mike's stuck deals are relayed through Matt's summary DM. Update slack_id here if Mike joins the workspace."
+      "notes": "GC license holder + estimator (Josh's dad). Owns deals in the General Contracting Sales pipeline. NOT on Slack \u00e2\u20ac\u201d pipeline brief notifications about Mike's stuck deals are relayed through Matt's summary DM. Update slack_id here if Mike joins the workspace."
     },
     {
       "name": "Joanne Viray",
@@ -311,7 +317,7 @@
       "ghl_user_id": null,
       "active": true,
       "inactive_since": null,
-      "notes": "Added 2026-06-25 — UT closer, was unmapped in Coach closer board."
+      "notes": "Added 2026-06-25 \u00e2\u20ac\u201d UT closer, was unmapped in Coach closer board."
     }
   ]
 }
